@@ -1,7 +1,7 @@
 # Challenge 1
 
 ## For this challenge I changed the div tags to follow semantic HTML format and added alt tags to the image sections. 
-## I added a main, aside, header, nav, and, footer tag to make things more readable.
+## I added a main, aside, header, nav, and, footer tags to make things more readable.
 
 ## I added in comments where I made changes, so that the next dev would know what I did. 
 
