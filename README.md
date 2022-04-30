@@ -12,4 +12,4 @@
 
 ## ![Hero section image](hero.png)
 
-## ![main section image](main1.png)
+## ![main section image](main.png)
