@@ -10,6 +10,6 @@
 
 ## [Link to deployed website](https://jeanette-ralph.github.io/challenge-1-Jeanette-Ralph/)
 
-## ![Hero section image](hero-section-1.png)
+## ![Hero section image](hero.png)
 
-## ![main section image](main-section-1.png)
+## ![main section image](main1.png)
