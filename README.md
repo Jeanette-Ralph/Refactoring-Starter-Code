@@ -6,6 +6,6 @@
 
 ## In the css styl sheet I combined several classes that had thee same styling, so it was more readable.
 
-##  [Link to the site](https://jeanette-ralph.github.io/challenge-1-Jeanette-Ralph/)  
+## [Main section image](main-section-1.png)  
 
 ## ![Hero section image](hero-section-1.png)
