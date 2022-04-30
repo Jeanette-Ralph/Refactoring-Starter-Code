@@ -6,6 +6,6 @@
 
 ## In the css styl sheet I combined several classes that had thee same styling, so it was more readable.
 
-## [Main section image](main-section-1.png)  
-
 ## ![Hero section image](hero-section-1.png)
+
+## ![main section image](main-section-1.png)
