@@ -8,4 +8,4 @@
 
 ##  [Link to the site](https://jeanette-ralph.github.io/challenge-1-Jeanette-Ralph/)  
 
-## ![Hero section image](.Desktop/hero-section-1.png)
+## ![Hero section image](hero-section-1.png)
